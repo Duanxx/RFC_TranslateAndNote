@@ -41,6 +41,7 @@ USA Standard Code for Information Interchange
 ##3 字符表示和编码定义
 标准的7位字符编码定义：$b7$是最高位,$b1$是最低位，举个例子：
 字符$K$在ASCII码表示是第11行，第4列，其二进制表示为
+
 -----------------![image_1b8vniokg172f6uc1p58vi21kdhm.png-8.7kB][3]
 
 字符在ASCII码表中的位置，也可以作为字符的表示方式，还是字符$K$，由于其在第11行，第4列，所以可以表示为“column 4, row 11”或者是“4/11”
