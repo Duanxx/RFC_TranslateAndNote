@@ -81,7 +81,6 @@ ASCII（发音为as’-key）、USACII（发音为yous s as’-key）的具体�
 
 
 
-
   [1]: http://static.zybuluo.com/Duanxx/sfp93c1fb9j58l6yposayoy6/image_1b8vm218ugrv1glt1d1k8ipiei9.png
   [2]: https://www.researchgate.net/publication/279057491_UNICODE_Standard_Code_for_Information_Interchange
   [3]: http://static.zybuluo.com/Duanxx/7kgqn2jmfugwxwfc92b6eh03/image_1b8vniokg172f6uc1p58vi21kdhm.png
